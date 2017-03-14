@@ -1,0 +1,8 @@
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\bin\Debug\Week9G2.exe.config
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\bin\Debug\Week9G2.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\bin\Debug\Week9G2.pdb
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\obj\Debug\Week9G2.Form1.resources
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\obj\Debug\Week9G2.Properties.Resources.resources
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\obj\Debug\Week9G2.csproj.GenerateResource.Cache
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\obj\Debug\Week9G2.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\Week9G2\Week9G2\obj\Debug\Week9G2.pdb
